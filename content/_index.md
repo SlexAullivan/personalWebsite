@@ -41,4 +41,4 @@ August 2014 - February 2016
 
 # **About Me**
 ---
-Hi, my name is Alex, currently I am a student at CSUCI in Camarillo California. This Website is something I've wanted to get up and running for a while now.
+Hi, my name is Alex, currently I am a student at CSUCI in Camarillo California. This Website is something I've wanted to get up and running for a while now. More Will be coming to this about me soon!
