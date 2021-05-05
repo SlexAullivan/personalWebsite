@@ -25,7 +25,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          external_repository: SlexAullivan/slexAullivan.github.io
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          external_repository: SlexAullivan/SlexAullivan.github.io
           publish_branch: master
           publish_dir: ./public
