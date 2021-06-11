@@ -25,7 +25,7 @@ SSH into your ec2 instance
 
 SSH stands for secure shell, this is a way to access a computer over the internet that you are not directly connected to. Using the terminal `cd` into the directory where your private key is located and use the following command:
 
-- Go to the ec2 management console on AWS educate and find your instances public ipv4 instance.
+- Go to the ec2 management console on AWS educate and find your instances public ipv4 address.
 - In the terminal make sure you are in the folder where your `.pem` is located, the use the following command to ssh into your instance.
 - `ssh -i <nameOfYourKey>.pem ec2-user@<public ipv4 address of your instance>`
 - if prompted for ECDSA fingerprint, type `yes`
