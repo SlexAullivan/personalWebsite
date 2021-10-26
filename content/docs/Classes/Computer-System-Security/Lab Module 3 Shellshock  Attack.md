@@ -76,7 +76,7 @@ Then I changed the resulting binary of the program above to be a `setuid` progra
 
 The following is the result:
 
-![cgishellshock](/cgishellshock.png)
+![cgishellshock](/images/cgishellshock.png)
 
 ### 2.5 Getting a Reverse Shell via Shellshock Attack
 
